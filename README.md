@@ -1,4 +1,4 @@
-# 🧹 Cleaner by Sept
+# 🧹 Cleases by Armalunar
 
 Um programa simples em Python para limpar arquivos temporários, esvaziar a lixeira, adicionar um plano de energia de desempenho máximo e executar o Microsoft Windows Malicious Software Removal Tool (MRT).
 
