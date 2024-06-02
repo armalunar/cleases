@@ -5,7 +5,7 @@ Um programa simples em Python para limpar arquivos temporários, esvaziar a lixe
 ## 🚀 Como Usar
 
 1. Baixe o executável [cleases.exe](https://github.com/armalunar/cleases/releases/download/v1.0.0/cleases.exe).
-2. Execute o arquivo `cleases.exe`.
+2. Execute o arquivo
 3. Siga as instruções no menu para selecionar uma opção.
 
 ## 🧹 Funcionalidades
