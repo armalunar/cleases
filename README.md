@@ -21,7 +21,7 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## 📰 Novidades
 
-Consideere ver as novas atualizações em nossa [releases page](https://github.com/cleases/releases).
+Consideere ver as novas atualizações em nossa [releases page](https://github.com/armalunar/cleases/releases).
 
 ## ❤️ Suporte
 
