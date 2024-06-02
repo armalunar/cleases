@@ -19,9 +19,9 @@ Um programa simples em Python para limpar arquivos temporários, esvaziar a lixe
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-## 🤝 Contribuindo
+## 📰 Novidades
 
-Contribuições, problemas e solicitações de novos recursos são bem-vindos! Sinta-se à vontade para verificar [issues page](https://github.com/cleases/issues).
+Consideere ver as novas atualizações em nossa [releases page](https://github.com/cleases/releases).
 
 ## ❤️ Suporte
 
